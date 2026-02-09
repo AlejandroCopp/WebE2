@@ -7,5 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-   base: "/Web-Educativa/", 
+   base: "/WebE2/", 
 })

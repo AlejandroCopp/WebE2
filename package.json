@@ -2,7 +2,7 @@
   "name": "mis-clases",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/AlejandroCopp/Web-Educativa",
+  "homepage": "https://AlejandroCopp.github.io/WebE2",
   "type": "module",
   "scripts": {
     "dev": "vite",
