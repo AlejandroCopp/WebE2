@@ -591,7 +591,7 @@ export default function ClassManager() {
          <div className="absolute inset-0 opacity-20 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-indigo-500 via-slate-900 to-black"></div>
          <div className="bg-white/10 backdrop-blur-lg p-8 md:p-12 rounded-3xl shadow-2xl border border-white/10 w-full max-w-lg relative z-10 text-center">
             <h1 className="text-3xl md:text-4xl font-bold text-white mb-2">Clase de Celulares</h1>
-            <p className="text-indigo-200 mb-10 text-lg">Plataforma de Aprendizaje Digital</p>
+            <p className="text-indigo-200 mb-10 text-lg">Plataforma de Aprendizaje Digital Desarrollada por ALC</p>
             
             <div className="space-y-6">
               <div className="bg-white/5 p-6 rounded-2xl border border-white/10 shadow-inner">
@@ -618,7 +618,7 @@ export default function ClassManager() {
 
               {!showTeacherForm ? (
                 <button onClick={() => { setShowTeacherForm(true); setLoginError(""); }} className="w-full bg-transparent text-slate-400 text-sm font-medium p-3 rounded-xl hover:bg-white/5 hover:text-white transition-all flex items-center justify-center gap-2 border border-dashed border-slate-700">
-                  <KeyRound size={16} /> Soy el Profesor
+                  <KeyRound size={16} /> Soy Ale
                 </button>
               ) : (
                 <div className="bg-slate-800/50 p-4 rounded-xl border border-indigo-500/30 animate-in fade-in slide-in-from-bottom-2 duration-300">
